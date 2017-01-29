@@ -1,0 +1,20 @@
+{
+  "name": "big-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/knockout": "^3.4.39",
+    "awesome-typescript-loader": "^3.0.0-beta.18",
+    "knockout": "^3.4.1",
+    "raw-loader": "^0.5.1",
+    "source-map-loader": "^0.1.6",
+    "typescript": "^2.1.5",
+    "typings": "^2.1.0"
+  }
+}
